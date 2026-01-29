@@ -1,4 +1,4 @@
 # first-repo
 This is my first repository.
 <br>
-Author- Aakriti Verma
+Author- Aakriti (apna college)
